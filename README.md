@@ -4,8 +4,8 @@
 
 | Classwork |  Summary |
 | --------- | -------- |
-|[1.2 - Classwork](01-Classwork/01-Excel/02-Excel)|[1.2 - Summary]((https://drive.google.com/file/d/1i70DVupErUNkrwXYJMDo6TQQn69NPj0-/view?usp=sharing))
-|[1.3 - Classwork](01-Classwork/01-Excel/03-Excel)|[1.3 - Summary](https://drive.google.com/file/d/1HcCIdY_2kQ4QQ-jnwLqJcx3WqC_l0Wb5/view?usp=sharing))
+|[1.2 - Classwork](01-Classwork/01-Excel/02-Excel)|[1.2 - Summary](https://drive.google.com/file/d/1i70DVupErUNkrwXYJMDo6TQQn69NPj0-/view?usp=sharing)
+|[1.3 - Classwork](01-Classwork/01-Excel/03-Excel)|[1.3 - Summary](https://drive.google.com/file/d/1HcCIdY_2kQ4QQ-jnwLqJcx3WqC_l0Wb5/view?usp=sharing)
 
 |Homework|
 | ------ |
