@@ -22,3 +22,9 @@
 |Homework|
 | ------ |
 |[2.3 - Homework](/vba-challenge)|
+
+## [Unit 3 - Python]
+
+| Classwork |  Summary |
+| --------- | -------- |
+|[3.1 - Classwork](/03-Classwork/01-Python)|[3.1 - Summary]()
