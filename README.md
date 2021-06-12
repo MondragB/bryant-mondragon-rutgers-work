@@ -27,4 +27,5 @@
 
 | Classwork |  Summary |
 | --------- | -------- |
-|[3.1 - Classwork](/03-Classwork/01-Python)|[3.1 - Summary]()
+|[3.1 - Classwork](/03-Classwork/01-Python)|[3.1 - Summary](https://drive.google.com/file/d/1Y-Z0ShMv4A5uwVDLHxwyw6Mu0ysujVSy/view?usp=sharing)
+|[3.2 - Classwork](/03-Classwork/01-Python)|[3.2 - Summary]()
