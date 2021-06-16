@@ -11,10 +11,6 @@ with open(csvpath) as csvfile:
     user_input = input("What video are you looking for? ")
 
     for row in csvreader:
-        if (user_input in row[0]):
-            found = True
-            print(f"{row[0]} is rated {row[1]} with a rating of {row[6]}.")
+        if (row[7] >= 5):
+            print(f"{row[0]} has {row[7]} grams of fiber.")
             break
-
-    if(found == False):
-        print("Video was not found.")
