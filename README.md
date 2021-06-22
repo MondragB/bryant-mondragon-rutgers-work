@@ -39,4 +39,10 @@
 
 | Classwork |  Summary |
 | --------- | -------- |
-|[4.1 - Classwork](/04-Classwork/01-Pandas)|[4.1 - Summary]()
+|[4.1 - Classwork](/04-Classwork/01-Pandas)|[4.1 - Summary](https://drive.google.com/file/d/1sFcPDwMzYRnsbqXdvHf6XxDpOzXksRlF/view?usp=sharing)
+|[4.2 - Classwork](/03-Classwork/02-Python)|[4.2 - Summary](https://drive.google.com/file/d/1dutst6sFUnghU8byVJrFAn0ipVG4LoOi/view?usp=sharing)
+|[4.3 - Classwork](/03-Classwork/03-Python)|[4.3 - Summary]()
+
+|Homework|
+| ------ |
+|[4.3 - Homework](/pandas-challenge)|
