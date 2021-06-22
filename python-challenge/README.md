@@ -32,10 +32,9 @@
 
 ## PyPoll
 
+* In this challenge, you are tasked with helping a small, rural town modernize its vote counting process.
 
-  - [x] * In this challenge, you are tasked with helping a small, rural town modernize its vote counting process.
-
-  - [x] * You will be give a set of poll data called [election_data.csv](PyPoll/Resources/election_data.csv). The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. Your task is to create a Python script that analyzes the votes and calculates each of the following:
+* You will be give a set of poll data called [election_data.csv](PyPoll/Resources/election_data.csv). The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. Your task is to create a Python script that analyzes the votes and calculates each of the following:
 
   - [x] * The total number of votes cast
 
