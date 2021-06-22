@@ -36,15 +36,15 @@ with open(electionData, 'r') as csvfile:
             candidates.append(candidate)
             candidateTotals.append(1)
 
-        # this loops calculates the winner by going through the list of candidates and compares
-        # their total to the next and saves that index as the winner which we can use to save
-        # the winner in a variable
-        for candidate in range(len(candidates)):
-            if(candidateTotals[candidate] > winner):
-                winner = candidateTotals[candidate]
-                winnerIndex = candidate
+    # this loops calculates the winner by going through the list of candidates and compares
+    # their total to the next and saves that index as the winner which we can use to save
+    # the winner in a variable
+    for candidate in range(len(candidates)):
+        if(candidateTotals[candidate] > winner):
+            winner = candidateTotals[candidate]
+            winnerIndex = candidate
 
-        electionWinner = candidates[winnerIndex]
+    electionWinner = candidates[winnerIndex]
 
     print("Election Results")
     print("----------------------------")
