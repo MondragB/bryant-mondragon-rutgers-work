@@ -51,6 +51,6 @@
 
 | Classwork |  Summary |
 | --------- | -------- |
-|[5.1 - Classwork](/05-Classwork/01-MatplotLib)|[5.1 - Summary]((https://drive.google.com/file/d/19e8_VjDXptPz1-gF3ABdiAJoLiQrQn50/view?usp=sharing)
+|[5.1 - Classwork](/05-Classwork/01-MatplotLib)|[5.1 - Summary](https://drive.google.com/file/d/19e8_VjDXptPz1-gF3ABdiAJoLiQrQn50/view?usp=sharing)
 |[5.2 - Classwork](/05-Classwork/02-MatplotLib)|[5.2 - Summary]()
 |[5.3 - Classwork](/05-Classwork/03-MatplotLib)|[5.3 - Summary]()
