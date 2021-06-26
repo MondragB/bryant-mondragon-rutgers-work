@@ -9,7 +9,7 @@
 
 |Homework|
 | ------ |
-|[1.3 - Homework](/excel-challenge)|
+|[1 - Homework](/excel-challenge)|
 
 ## [Unit 2 - VBA Scripting]
 
@@ -21,7 +21,7 @@
 
 |Homework|
 | ------ |
-|[2.3 - Homework](/vba-challenge)|
+|[2 - Homework](/vba-challenge)|
 
 ## [Unit 3 - Python]
 
@@ -33,16 +33,24 @@
 
 |Homework|
 | ------ |
-|[3.3 - Homework](/python-challenge)|
+|[3 - Homework](/python-challenge)|
 
 ## [Unit 4 - Pandas]
 
 | Classwork |  Summary |
 | --------- | -------- |
 |[4.1 - Classwork](/04-Classwork/01-Pandas)|[4.1 - Summary](https://drive.google.com/file/d/1sFcPDwMzYRnsbqXdvHf6XxDpOzXksRlF/view?usp=sharing)
-|[4.2 - Classwork](/03-Classwork/02-Python)|[4.2 - Summary](https://drive.google.com/file/d/1dutst6sFUnghU8byVJrFAn0ipVG4LoOi/view?usp=sharing)
-|[4.3 - Classwork](/03-Classwork/03-Python)|[4.3 - Summary]()
+|[4.2 - Classwork](/03-Classwork/02-Pandas)|[4.2 - Summary](https://drive.google.com/file/d/1dutst6sFUnghU8byVJrFAn0ipVG4LoOi/view?usp=sharing)
+|[4.3 - Classwork](/03-Classwork/03-Python)|[4.3 - Summary](https://drive.google.com/file/d/1KTJJeA1ExBG4YOfNtSAUeTvjt7VByHmi/view?usp=sharing)
 
 |Homework|
 | ------ |
-|[4.3 - Homework](/pandas-challenge)|
+|[4 - Homework](/pandas-challenge)|
+
+## [Unit 5 - MatplotLib]
+
+| Classwork |  Summary |
+| --------- | -------- |
+|[5.1 - Classwork](/05-Classwork/01-MatplotLib)|[5.1 - Summary]((https://drive.google.com/file/d/19e8_VjDXptPz1-gF3ABdiAJoLiQrQn50/view?usp=sharing)
+|[5.2 - Classwork](/05-Classwork/02-MatplotLib)|[5.2 - Summary]()
+|[5.3 - Classwork](/05-Classwork/03-MatplotLib)|[5.3 - Summary]()
