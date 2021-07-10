@@ -63,6 +63,6 @@
 
 | Classwork |  Summary |
 | --------- | -------- |
-|[6.1 - Classwork](/05-Classwork/01-APIs)|[6.1 - Summary](https://drive.google.com/file/d/1rgEsgpCSPU-pAMHmlKi3y1WqYWbTu0h0/view?usp=sharing)
-|[6.2 - Classwork](/05-Classwork/02-APIs)|[6.2 - Summary]()
-|[6.3 - Classwork](/05-Classwork/03-APIs)|[6.3 - Summary]()
+|[6.1 - Classwork](/06-Classwork/01-APIs)|[6.1 - Summary](https://drive.google.com/file/d/1rgEsgpCSPU-pAMHmlKi3y1WqYWbTu0h0/view?usp=sharing)
+|[6.2 - Classwork](/06-Classwork/02-APIs)|[6.2 - Summary](https://drive.google.com/file/d/1sd6JPoEE1Wr3zWZ4TiSQ0EN80DVVnlcx/view?usp=sharing)
+|[6.3 - Classwork](/06-Classwork/03-APIs)|[6.3 - Summary](https://drive.google.com/file/d/1GPXjQhGTLVqX4g5pjj_ZqvtKV1lsm2QQ/view?usp=sharing)
