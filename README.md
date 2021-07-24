@@ -17,7 +17,7 @@
 | --------- | -------- |
 |[2.1 - Classwork](/Classwork/VBA/01-VBA)|[2.1 - Summary](https://drive.google.com/file/d/1d7EzN2pzULBcNQOzyGR_WEGdScf9SBZH/view?usp=sharing)
 |[2.2 - Classwork](/Classwork/VBA/02-VBA)|[2.2 - Summary](https://drive.google.com/file/d/1bqbrdcTti2BB_EJRNcVyGnCj-e3hKoP2/view?usp=sharing)
-| [2.3 - **Absent** ]|[2.3 - Summary]((https://drive.google.com/file/d/1I3j8bHJzNzxObY4pULrN4bonl7MBv7v9/view?usp=sharing))
+| [2.3 - **Absent** ]()|[2.3 - Summary](https://drive.google.com/file/d/1I3j8bHJzNzxObY4pULrN4bonl7MBv7v9/view?usp=sharing)
 
 |Homework|
 | ------ |
