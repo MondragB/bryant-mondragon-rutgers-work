@@ -75,7 +75,7 @@
 
 | Project 1 |  
 | --------- |
-|[NBA Analysis](/Project1-Historical-NBA-Analysis)|
+|[NBA Analysis](https://github.com/Kate-Yayla/Project1-Historical-NBA-Analysis/tree/7e2b5bee4cc2502da3716363f2da1941b18b554d)|
 
 ## [Unit 9 - SQL]
 
