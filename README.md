@@ -2,7 +2,7 @@
 
 ## [Unit 1 - Microsoft Excel]
 
-| Classwork |  Summary |
+| Classwork |  Summary | 
 | --------- | -------- |
 |[1.2 - Classwork](/01-Classwork/02-Excel)|[1.2 - Summary](https://drive.google.com/file/d/1i70DVupErUNkrwXYJMDo6TQQn69NPj0-/view?usp=sharing)
 |[1.3 - Classwork](/01-Classwork/03-Excel)|[1.3 - Summary](https://drive.google.com/file/d/1HcCIdY_2kQ4QQ-jnwLqJcx3WqC_l0Wb5/view?usp=sharing)
@@ -66,3 +66,21 @@
 |[6.1 - Classwork](/06-Classwork/01-APIs)|[6.1 - Summary](https://drive.google.com/file/d/1rgEsgpCSPU-pAMHmlKi3y1WqYWbTu0h0/view?usp=sharing)
 |[6.2 - Classwork](/06-Classwork/02-APIs)|[6.2 - Summary](https://drive.google.com/file/d/1sd6JPoEE1Wr3zWZ4TiSQ0EN80DVVnlcx/view?usp=sharing)
 |[6.3 - Classwork](/06-Classwork/03-APIs)|[6.3 - Summary](https://drive.google.com/file/d/1GPXjQhGTLVqX4g5pjj_ZqvtKV1lsm2QQ/view?usp=sharing)
+
+|Homework|
+| ------ |
+|[6 - Homework](/api-challenge)|
+
+## [Unit 7 & 8 - Project 1]
+
+| Project 1 |  
+| --------- |
+|[NBA Analysis](/Project1-Historical-NBA-Analysis)|
+
+## [Unit 9 - SQL]
+
+| Classwork |  Summary |
+| --------- | -------- |
+|[9.1 - Classwork](/09-Classwork/01-SQL)|[9.1 - Summary]()
+<!-- |[9.2 - Classwork](/09-Classwork/02-APIs)|[9.2 - Summary]()
+|[9.3 - Classwork](/09-Classwork/03-APIs)|[9.3 - Summary]() -->
