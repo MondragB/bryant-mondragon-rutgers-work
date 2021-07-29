@@ -61,7 +61,6 @@
 
 ## [Unit 6 - APIs]
 
-| Classwork |  Summary |
 | --------- | -------- |
 |[6.1 - Classwork](/Classwork/APIs/01-APIs)|[6.1 - Summary](https://drive.google.com/file/d/1rgEsgpCSPU-pAMHmlKi3y1WqYWbTu0h0/view?usp=sharing)
 |[6.2 - Classwork](/Classwork/APIs/02-APIs)|[6.2 - Summary](https://drive.google.com/file/d/1sd6JPoEE1Wr3zWZ4TiSQ0EN80DVVnlcx/view?usp=sharing)
@@ -81,6 +80,10 @@
 
 | Classwork |  Summary |
 | --------- | -------- |
-|[9.1 - Classwork](/Classwork/SQL/01-SQL)|[9.1 - Summary]()
-<!-- |[9.2 - Classwork](/09-Classwork/02-APIs)|[9.2 - Summary]()
-|[9.3 - Classwork](/09-Classwork/03-APIs)|[9.3 - Summary]() -->
+|[9.1 - Classwork](/Classwork/SQL/01-SQL)|[9.1 - Summary](https://drive.google.com/file/d/1kl5MEIEnQMc7eYW1YRezyGKVh3R2m40E/view?usp=sharing)
+|[9.2 - Classwork](/09-Classwork/02-APIs)|[9.2 - Summary](https://docs.google.com/document/d/1NZv24VHPY8qERiMTSyqw5CcJezQP65JY/edit)
+|[9.3 - Classwork](/09-Classwork/03-APIs)|[9.3 - Summary]() 
+
+|Homework|
+| ------ |
+|[7 - Homework](/Challenges/python-api-challenge)|
