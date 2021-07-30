@@ -81,8 +81,8 @@
 | Classwork |  Summary |
 | --------- | -------- |
 |[9.1 - Classwork](/Classwork/SQL/01-SQL)|[9.1 - Summary](https://drive.google.com/file/d/1kl5MEIEnQMc7eYW1YRezyGKVh3R2m40E/view?usp=sharing)
-|[9.2 - Classwork](/09-Classwork/02-APIs)|[9.2 - Summary](https://docs.google.com/document/d/1NZv24VHPY8qERiMTSyqw5CcJezQP65JY/edit)
-|[9.3 - Classwork](/09-Classwork/03-APIs)|[9.3 - Summary]() 
+|[9.2 - Classwork](/Classwork/SQL/02-SQL)|[9.2 - Summary](https://docs.google.com/document/d/1NZv24VHPY8qERiMTSyqw5CcJezQP65JY/edit)
+|[9.3 - Classwork](/Classwork/SQL/03-SQL)|[9.3 - Summary]() 
 
 |Homework|
 | ------ |
