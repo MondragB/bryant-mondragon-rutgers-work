@@ -95,4 +95,8 @@
 | --------- | -------- |
 |[10.1 - Classwork](/Classwork/10-Advanced-Data-Storage-&-Retrieval/01-ADSR)|[10.1 - Summary]()
 |[10.2 - Classwork](/Classwork/10-Advanced-Data-Storage-&-Retrieval/02-ADSR)|[10.2 - Summary]()
-|[10.3 - Classwork](/Classwork/10-Advanced-Data-Storage-&-Retrieval/03-ADSR)|[10.3 - Summary]() 
+|[10.3 - Classwork](/Classwork/10-Advanced-Data-Storage-&-Retrieval/03-ADSR)|[10.3 - Summary]()
+
+|Homework|
+| ------ |
+|[8 - Homework](/Challenges/sql-challenge)|
