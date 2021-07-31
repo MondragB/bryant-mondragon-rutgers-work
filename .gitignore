@@ -132,8 +132,13 @@ dmypy.json
 config.py
 api_keys.py
 
-API_practice.ipynb
-random_numbers.ipynb
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
 
-#vscode folder (?)
-/.vscode
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+**/.history
