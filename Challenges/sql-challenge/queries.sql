@@ -74,3 +74,7 @@ SELECT last_name AS "Last Name",
 FROM public."Employee"
 GROUP BY public."Employee".last_name
 ORDER BY "Frequency" DESC;
+--Epilogue
+SELECT *
+FROM public."Employee"
+WHERE emp_no = 499942
