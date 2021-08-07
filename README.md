@@ -17,7 +17,7 @@
 | --------- | -------- |
 |[2.1 - Classwork](/Classwork/02-VBA/01-VBA)|[2.1 - Summary](https://drive.google.com/file/d/1d7EzN2pzULBcNQOzyGR_WEGdScf9SBZH/view?usp=sharing)
 |[2.2 - Classwork](/Classwork/02-VBA/02-VBA)|[2.2 - Summary](https://drive.google.com/file/d/1bqbrdcTti2BB_EJRNcVyGnCj-e3hKoP2/view?usp=sharing)
-| [2.3 - **Absent** ]()|[2.3 - Summary](https://drive.google.com/file/d/1I3j8bHJzNzxObY4pULrN4bonl7MBv7v9/view?usp=sharing)
+|[2.3 - **Absent**](#fragment)|[2.3 - Summary](https://drive.google.com/file/d/1I3j8bHJzNzxObY4pULrN4bonl7MBv7v9/view?usp=sharing)
 
 |Homework|
 | ------ |
@@ -83,7 +83,7 @@
 | --------- | -------- |
 |[9.1 - Classwork](/Classwork/09-SQL/01-SQL)|[9.1 - Summary](https://drive.google.com/file/d/1kl5MEIEnQMc7eYW1YRezyGKVh3R2m40E/view?usp=sharing)
 |[9.2 - Classwork](/Classwork/09-SQL/02-SQL)|[9.2 - Summary](https://docs.google.com/document/d/1NZv24VHPY8qERiMTSyqw5CcJezQP65JY/edit)
-|[9.3 - Classwork](/Classwork/09-SQL/03-SQL)|[9.3 - Summary](https://drive.google.com/file/d/1BeE-4LXkQ9NEwCeccd2ZW1wMDp-IJfXc/view?usp=sharing) 
+|[9.3 - Classwork](/Classwork/09-SQL/03-SQL)|[9.3 - Summary](https://drive.google.com/file/d/1BeE-4LXkQ9NEwCeccd2ZW1wMDp-IJfXc/view?usp=sharing)
 
 |Homework|
 | ------ |
@@ -95,8 +95,16 @@
 | --------- | -------- |
 |[10.1 - Classwork](/Classwork/10-Advanced-Data-Storage-&-Retrieval/01-ADSR)|[10.1 - Summary](https://drive.google.com/file/d/1YoqJNNNQJ_NtL1IAJM2M9vJbXmeegmGi/view?usp=sharing)
 |[10.2 - Classwork](/Classwork/10-Advanced-Data-Storage-&-Retrieval/02-ADSR)|[10.2 - Summary](https://drive.google.com/file/d/18NFUGHEOBazC_8-ax-6dQ4YzKtrhKbUn/view?usp=sharing)
-|[10.3 - Classwork](/Classwork/10-Advanced-Data-Storage-&-Retrieval/03-ADSR)|[10.3 - Summary]()
+|[10.3 - Classwork](/Classwork/10-Advanced-Data-Storage-&-Retrieval/03-ADSR)|[10.3 - Summary](https://drive.google.com/file/d/11PKBKAq2dXbvZb-AZR35y5E-MuVY5dP2/view?usp=sharing)
 
 |Homework|
 | ------ |
 |[8 - Homework](/Challenges/sql-challenge)|
+
+## [Unit 11-Web]
+
+| Classwork |  Summary |
+| --------- | -------- |
+|[11.1 - Classwork](/Classwork/10-Advanced-Data-Storage-&-Retrieval/01-ADSR)|[11.1 - Summary]()
+|[11.2 - Classwork](/Classwork/10-Advanced-Data-Storage-&-Retrieval/02-ADSR)|[11.2 - Summary]()
+|[11.3 - Classwork](/Classwork/10-Advanced-Data-Storage-&-Retrieval/03-ADSR)|[11.3 - Summary]()
