@@ -105,6 +105,6 @@
 
 | Classwork |  Summary |
 | --------- | -------- |
-|[11.1 - Classwork](/Classwork/11-Web/01-Web)|[11.1 - Summary](#none)
-<!-- |[11.2 - Classwork](/Classwork/11-Web/02-Web)|[11.2 - Summary](#none)
-|[11.3 - Classwork](/Classwork/11-Web/03-web)|[11.3 - Summary](#none) -->
+|[11.1 - Classwork](/Classwork/11-Web/01-Web)|[11.1 - Summary](https://drive.google.com/file/d/1JHrYi-JiXbdONxut2I8sY-pyAYLoFi8w/view?usp=sharing)
+|[11.2 - Classwork](/Classwork/11-Web/02-Web)|[11.2 - Summary](https://docs.google.com/document/d/1q-K6yBTkx2hRuk6I2CpUmyYF3fM1JO8I/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
+|[11.3 - Classwork](/Classwork/11-Web/03-web)|[11.3 - Summary](#none)
