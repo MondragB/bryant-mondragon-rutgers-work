@@ -55,3 +55,36 @@ h3 {
   margin-right: 100px;
   margin-left: 100px;
 }
+
+#Dropdown {
+  display: none;
+}
+
+@media (max-width: 1000px) {
+  .navbar li {
+    display: inline-block;
+    padding: 10px;
+    margin-right: 5px;
+    margin-left: 5px;
+  }
+
+  .post {
+    margin-right: 50px;
+    margin-left: 50px;
+  }
+}
+
+@media (max-width: 500px) {
+  .navbar li {
+    display: none;
+  }
+
+  #Dropdown {
+    display: inline;
+  }
+
+  .post {
+    margin-right: 25px;
+    margin-left: 25px;
+  }
+}
