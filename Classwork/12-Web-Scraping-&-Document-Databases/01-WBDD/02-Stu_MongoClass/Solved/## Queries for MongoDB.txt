@@ -1,0 +1,14 @@
+## Queries for MongoDB
+
+db.students.insert({"name":"Bryant","favoriteLibrary":"pandas","age":28,"hobbies":["music","movies","games"]})
+
+db.students.insert({"name":"Carlos","favoriteLibrary":"matplotlib","age":27,"hobbies":["music","tv","art"]})
+
+db.students.insert({"name":"Jason","favoriteLibrary":"numpy","age":25,"hobbies":["music","tv","sports"]})
+
+db.students.insert({"name":"Mark","favoriteLibrary":"Flask","age":28,"hobbies":["climbing","tv","music"]})
+
+db.students.find({"age":28})
+
+db.students.find({"name":"Bryant"})
+
