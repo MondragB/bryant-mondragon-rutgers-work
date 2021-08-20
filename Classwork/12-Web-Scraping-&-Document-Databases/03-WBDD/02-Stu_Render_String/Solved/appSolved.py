@@ -1,0 +1,23 @@
+# import necessary libraries
+from flask import Flask, render_template
+
+# @TODO: Initialize your Flask app here
+app = Flask(__name__)
+
+# @TODO:  Create a route and view function that takes in a string and renders index.html template
+
+
+@app.route("/")
+def home():
+    templs = ["index.html"]
+    return render_template(templs, name="Bryant", hobby="Video Games")
+
+
+@app.route("/bonus.html")
+def bonus():
+    templss = ["bonus.html"]
+    return render_template(templss, name="Bryant", hobby="Video Games")
+
+
+if __name__ == "__main__":
+    app.run(debug=True)
