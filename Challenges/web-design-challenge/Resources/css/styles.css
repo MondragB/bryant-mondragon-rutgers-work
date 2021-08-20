@@ -61,4 +61,7 @@ p {
     margin-left: 0rem;
     margin-top: 0rem;
   }
+  .lessSpace {
+    padding-left: 0.75rem;
+  }
 }
