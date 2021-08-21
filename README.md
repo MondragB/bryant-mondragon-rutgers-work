@@ -117,7 +117,7 @@
 
 | Classwork |  Summary |
 | --------- | -------- |
-|[12.1 - Classwork](/Classwork/12-Web-Scraping-&-Document-Databases/01-WBDD)|[12.1 - Summary]([#none](https://docs.google.com/document/d/1GGl2e-n3XfbP87UmDjZ84GYCJt5x2uFG/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true))
+|[12.1 - Classwork](/Classwork/12-Web-Scraping-&-Document-Databases/01-WBDD)|[12.1 - Summary](https://docs.google.com/document/d/1GGl2e-n3XfbP87UmDjZ84GYCJt5x2uFG/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
 |[12.2 - Classwork](/Classwork/12-Web-Scraping-&-Document-Databases/02-WBDD)|[12.2 - Summary](https://docs.google.com/document/d/1qaRyqRGz0QqY0H6Fam0HS4aKHyH8qeBX/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
 |[12.3 - Classwork](/Classwork/12-Web-Scraping-&-Document-Databases/03-WBDD)|[12.3 - Summary](https://docs.google.com/document/d/1mQdnzQ5jyMiVIgjSUcMsgEKcsmfHefeN/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
 
