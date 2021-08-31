@@ -1,3 +1,6 @@
 [submodule "Project1-Historical-NBA-Analysis"]
 	path = Project1-Historical-NBA-Analysis
 	url = https://github.com/Kate-Yayla/Project1-Historical-NBA-Analysis.git
+[submodule "Projects/Project2-Group4-ETL"]
+	path = Projects/Project2-Group4-ETL
+	url = https://github.com/MondragB/Project2-Group4-ETL
