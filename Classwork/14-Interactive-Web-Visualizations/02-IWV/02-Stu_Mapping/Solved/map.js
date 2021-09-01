@@ -6,6 +6,7 @@ let princesses = [
   ];
 
 // Create an array of just the names from the princesses array
-
+console.log(princesses.map(princess => princess.name));
 
 // Create an array of strings for each princess name, follow by a colon, followed by their age
+console.log(princesses.map(princess => princess.name + " : " + princess.age));

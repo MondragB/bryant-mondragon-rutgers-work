@@ -27,15 +27,15 @@ let roster = [{
 ];
 
 // Create a custom function to return players who made the team
-
+function madeTeam(roster) {
+  return roster.madeTeam == true;
+}
 
 // Call the custom function with filter()
-
+let success = roster.filter(madeTeam);
 
 // Display the results
-
+console.log(success);
 
 // Determine how many players made the cut
-
-
-// Display the results
+console.log(success.length + ' Players made the cut.');

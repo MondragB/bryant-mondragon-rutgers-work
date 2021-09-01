@@ -1,6 +1,6 @@
 # Preprocessing Data with Functions for Plotly
 
-In this activity, you will create functions that preprocess films from the Pagila database and create a bar chart of average values by age rating. 
+In this activity, you will create functions that preprocess films from the Pagila database and create a bar chart of average values by age rating.
 
 ## Instructions
 
