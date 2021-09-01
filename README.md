@@ -135,6 +135,11 @@
 | --------- |
 |[FilmBuffs ETL](#none)|
 
+|Homework|
+| ------ |
+|[11 - Homework](/Challenges/web-scraping-challenge)|
+
+
 ## [Unit 14-Interactive-Web-Visualizations]
 
 | Classwork |  Summary |
@@ -142,3 +147,7 @@
 |[14.1 - Classwork](/Classwork/14-Interactive-Web-Visualizations/01-IWV)|[14.1 - Summary](https://docs.google.com/document/d/1NyCkxGAgWiEd5IJ7IEXZ0MhDO8KETFkK/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
 |[14.2 - Classwork](/Classwork/14-Interactive-Web-Visualizations/02-IWV)|[14.2 - Summary](#none)
 <!-- |[14.3 - Classwork](/Classwork/14-Interactive-Web-Visualizations/03-IWV)|[14.3 - Summary](#none) -->
+
+|Homework|
+| ------ |
+|[12 - Homework](/Challenges/plotly-challenge)|
