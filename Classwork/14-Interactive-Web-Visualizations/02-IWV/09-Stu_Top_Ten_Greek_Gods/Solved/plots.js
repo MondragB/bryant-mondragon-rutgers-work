@@ -13,9 +13,11 @@ reversedSlicedSortedGreekGods = slicedSortedGreekGods.reverse()
 
 // Trace for the Greek Data
 let trace = {
-    x: reversedSlicedSortedGreekGods.map(god => god.greekName),
-    y: reversedSlicedSortedGreekGods.map(god => god.greekSearchResults),
-    type: "bar"
+    x: reversedSlicedSortedGreekGods.map(god => god.greekSearchResults),
+    y: reversedSlicedSortedGreekGods.map(god => god.greekName),
+    text: reversedSlicedSortedGreekGods.map(god => god.greekName),
+    type: "bar",
+    orientation:'h'
 };
 
 // Data array
