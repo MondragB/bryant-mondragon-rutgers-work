@@ -7,26 +7,45 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-
+    <link rel="stylesheet" type="text/css" href="/Challenges/web-scraping-challenge/styles.css" />
     <title>Mars Mission</title>
   </head>
   <body>
     <div class="jumbotron text-center">
       <h1><b>Mission to Mars</b></h1>
-      <p><a class="btn btn-primary btn-lg" href="/scrape" role="button">Scrape New Data</a></p>
+      <p>
+        <a class="btn btn-primary btn-lg" href="/scrape" role="button">Scrape New Data</a>
+      </p>
     </div>
-    <div>
+    <div id="container">
+      <h2>Latest Mars News</h2>
       <p>{{mars.title}}</p>
       <p>{{mars.paragraph}}</p>
     </div>
-    <div>
-      {{mars.featured_image}}
+    <div id="container">
+      <div class="row">
+        <div class="col-lg-8 customCon" id="mars-image">
+          <h3>Featured Mars Image</h3>
+          <img src="{{mars.featured_image}}" width="800" />
+        </div>
+        <div class="col-lg-4 customCon2" id="mars-facts">
+            <h3>Mars Facts</h3>
+            {{mars.facts | safe}}
+        </div>
+      </div>
     </div>
-      {{mars.facts}}
-    <div>
-      {{mars.urls}}
+    <h1 id="hemisphere">Mars Hemispheres</h1>
+    <hr>
+    <div class="card-group">
+      {% for item in mars.urls %}
+      <div class="card">
+        <img class="card-img-top" src="{{item.img_url}}" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">{{item.title}}</h5>
+        </div>
+      </div>
+      {% endfor %}
     </div>
-
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

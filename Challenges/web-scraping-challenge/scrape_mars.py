@@ -48,8 +48,8 @@ def scrape():
 
     # Use pandas to "scrape" the table into a datafram
     # NOTE: "[x]" will grab the different tables on the page
-    mars_facts_df = pd.read_html('https://galaxyfacts-mars.com/')[1]
-    mars_facts_df.columns = ['Description', 'Value']
+    mars_facts_df = pd.read_html('https://galaxyfacts-mars.com/')[0]
+    mars_facts_df.columns = ['Description', 'Mars', 'Earth']
     mars_facts_df.set_index('Description', inplace=True)
     mars_facts = mars_facts_df.to_html(classes="table table-striped")
 
@@ -101,7 +101,7 @@ def index():
 def scrape_data():
     mars_data = scrape()
     db.update({}, mars_data, upsert=True)
-    return "Scraping Successful"
+    return 'Scrape Successful. <a href="/">Go back</a>'
 
 
 if __name__ == "__main__":
