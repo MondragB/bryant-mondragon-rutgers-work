@@ -130,6 +130,7 @@ dmypy.json
 
 #configs
 config.py
+config.js
 api_keys.py
 
 ### VisualStudioCode ###

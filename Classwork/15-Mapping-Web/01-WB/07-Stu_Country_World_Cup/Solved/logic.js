@@ -63,11 +63,38 @@ var countries = [
   }
 ];
 
+function markerSize(points) {
+  return points * 3000;
+}
+
+
 
 // Loop through the countries array.
-
+for (let i = 0; i < countries.length; i++) {
   // Conditionals for country points
-
-  // Add circles to the map.
-
-  // Adjust the radius.
+  if (countries[i].points > 200){
+    L.circle(countries[i].location, {
+      fillOpacity: .75,
+      color: 'yellow',
+      radius: markerSize(countries[i].points)
+    }).bindPopup(`<h1>${countries[i].name}</h1> <hr> <h3>Points: ${countries[i].points.toLocaleString()}</h3>`).addTo(myMap);
+  } else if (countries[i].points > 100) {
+    L.circle(countries[i].location, {
+      fillOpacity: .75,
+      color: 'blue',
+      radius: markerSize(countries[i].points)
+    }).bindPopup(`<h1>${countries[i].name}</h1> <hr> <h3>Points: ${countries[i].points.toLocaleString()}</h3>`).addTo(myMap);
+  } else if (countries[i].points > 90) {
+    L.circle(countries[i].location, {
+      fillOpacity: .75,
+      color: 'green',
+      radius: markerSize(countries[i].points)
+    }).bindPopup(`<h1>${countries[i].name}</h1> <hr> <h3>Points: ${countries[i].points.toLocaleString()}</h3>`).addTo(myMap);
+  } else {
+    L.circle(countries[i].location, {
+      fillOpacity: .75,
+      color: 'red',
+      radius: markerSize(countries[i].points)
+    }).bindPopup(`<h1>${countries[i].name}</h1> <hr> <h3>Points: ${countries[i].points.toLocaleString()}</h3>`).addTo(myMap);
+  }
+}

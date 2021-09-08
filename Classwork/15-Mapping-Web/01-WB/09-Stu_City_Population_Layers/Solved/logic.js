@@ -102,17 +102,30 @@ var topo = L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
 
 
 // Create two separate layer groups: one for the city markers and another for the state markers.
+let stateLayer = L.layerGroup(stateMarkers);
+
+let cityLayer = L.layerGroup(cityMarkers);
+
 
 // Create a baseMaps object to contain the streetmap and the darkmap.
-
+let baseMaps = {
+  Street: street,
+  Topography: topo
+};
 // Create an overlayMaps object to contain the "State Population" and "City Population" layers
+let overlayMaps = {
+  Cities: cityLayer,
+  States: stateLayer
+};
 
 // Modify the map so that it has the streetmap, states, and cities layers
-L.map("map", {
+let myMap = L.map("map", {
   center: [
     37.09, -95.71
   ],
-  zoom: 5
+  zoom: 5,
+  layers: [street, stateLayer, cityLayer]
 });
 
 // Create a layer control that contains our baseMaps and overlayMaps, and add them to the map.
+L.control.layers(baseMaps, overlayMaps).addTo(myMap);
