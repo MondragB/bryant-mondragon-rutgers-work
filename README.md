@@ -156,6 +156,6 @@
 
 | Classwork |  Summary |
 | --------- | -------- |
-|[15.1 - Classwork](/Classwork/15-Mapping-Web/01-WB)|[15.1 - Summary](#none)
-<!-- |[15.2 - Classwork](/Classwork/15-Mapping-Web/02-WB)|[15.2 - Summary](#none)
-|[15.3 - Classwork](/Classwork/15-Mapping-Web/03-WB)|[15.3 - Summary](#none) -->
+|[15.1 - Classwork](/Classwork/15-Mapping-Web/01-WB)|[15.1 - Summary](https://docs.google.com/document/d/1g0kzOml4I5iJxjcnqsqEdwHoKZ3yLnmZ/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
+|[15.2 - **Absent**](/Classwork/15-Mapping-Web/02-WB)|[15.2 - Summary](https://docs.google.com/document/d/1_unBYrE3vxRp1n54UC_SbxNIQFFy3OCS/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=tru)
+|[15.3 - Classwork](/Classwork/15-Mapping-Web/03-WB)|[15.3 - Summary](#none)
