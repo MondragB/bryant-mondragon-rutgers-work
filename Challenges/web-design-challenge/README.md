@@ -1,6 +1,6 @@
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
-[Website Link](https://mondragb.github.io/mondragb-web.github.io/)
+[Website Link](https://mondragb.github.io/mondragb-plotly-github.io/)
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
