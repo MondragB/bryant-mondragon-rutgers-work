@@ -164,6 +164,17 @@
 
 | Classwork |  Summary |
 | --------- | -------- |
-|[16.1 - Classwork](/Classwork/16-R/01-R)|[16.1 - Summary](#none)
-<!-- |[16.2 - Classwork](/Classwork/16-R/02-R)|[16.2 - Summary](#none)
-|[16.3 - Classwork](/Classwork/16-R/03-R)|[16.3 - Summary](#none) -->
+|[16.1 - Classwork](/Classwork/16-R/01-R)|[16.1 - Summary](https://docs.google.com/document/d/1IoJEWyOdSsYXqGxaTu1PNAt-JOApm7rD/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
+|[16.2 - Classwork](/Classwork/16-R/02-R)|[16.2 - Summary](https://docs.google.com/document/d/1rtO0LRVnptlCfvAIF1rRByG3PsInJATK/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
+
+| Project 3 |  
+| --------- |
+|[Real Estate Visual Site](#none)|
+
+## [Unit 18-Tableau]
+
+| Classwork |  Summary |
+| --------- | -------- |
+|[18.1 - Classwork](/Classwork/18-Tableau/01-Tableau)|[18.1 - Summary](#none)
+<!-- |[18.2 - Classwork](/Classwork/18-Tableau/02-Tableau)|[18.2 - Summary](#none)
+|[18.3 - Classwork](/Classwork/18-Tableau/03-Tableau)|[18.3 - Summary](#none) -->
