@@ -133,7 +133,7 @@
 
 | Project 2 |  
 | --------- |
-|[FilmBuffs ETL](#none)|
+|[FilmBuffs ETL](https://github.com/MondragB/Project2-Group4-ETL)|
 
 |Homework|
 | ------ |
@@ -169,7 +169,7 @@
 
 | Project 3 |  
 | --------- |
-|[Real Estate Visual Site](#none)|
+|[Real Estate Visual Site](https://github.com/MondragB/bryant-mondragon-rutgers-work/tree/main/Projects/Project3Visuals)|
 
 ## [Unit 18-Tableau]
 
