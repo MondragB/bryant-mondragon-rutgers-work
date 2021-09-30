@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+
+    <!-- Our own CSS files -->
+    <link rel="stylesheet" type="text/css" href="../static/css/mapstyle.css" />
+
+    <!-- Load plotly.js into the DOM -->
+    <script src='https://cdn.plot.ly/plotly-2.4.2.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js'></script>
+
+    <title>Real Estate Analysis</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary ">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="/">Home Page</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Datapages</a>
+              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <li><a class="dropdown-item" href="/hotnessdata">Hotness by County Data</a></li>
+                <li><a class="dropdown-item" href="/statedata">State Data</a></li>
+                <li><a class="dropdown-item" href="/hotness">Hotness By Metro</a></li>
+                <li><a class="dropdown-item" href="/stateAbr">State Abbreviations</a></li>
+              </ul>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="statesPage">State Info</a>
+            </li>
+            <!-- <li class="nav-item">
+              <a class="nav-link" href="metroPage">Metro Info</a>
+            </li> -->
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <h1>Real Estate Market Hotness</h1>
+    <div class="container">
+      <hr>
+      <p>Explore market trends around the country. What are the most expensive markets in the country? Which places have seen list prices appreciate the fastest? How fast is inventory selling in the different markets around the country? How does seasonality impact market movement across the nation? Obtain insights on what makes real estate local.</p>
+    </div>
+    <div class="container">
+      <!-- The div that holds our map -->
+      <div id="myDiv"></div>
+    </div>
+    <div class="container">
+      <h3>How it's Determined:</h3>
+      <p>The Realtor.com Market Hotness Index exposes how local areas are experiencing fast moving supply and rising demand. Using their proprietary insights on buyer activity and the most comprehensive data on active inventory, the analysis breaks down demand and supply dynamics to rank metro areas, counties and zip codes relative to the rest of the country. Realtor.com examines listing views by market as an indicator of demand and median days on market as an indicator of supply. </p>
+    </div>
+    <div class="container">
+      <h3>Hotness Rank</h3>
+      <p>Our main usage of the data revolves around this <strong>Hotness Rank</strong> which is a specified zip code, county, or metro area’s Hotness rank, by Hotness score, compared to all other zip codes, counties and metro areas. A rank value of 1 is considered the hottest (highest Hotness score).</p>
+    </div>
+
+    <!-- Optional JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+
+    <!-- Logic Script -->
+    <script src="../static/js/logic.js"></script>
+  </body>
+</html>

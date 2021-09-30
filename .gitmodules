@@ -4,3 +4,6 @@
 [submodule "Projects/Project2-Group4-ETL"]
 	path = Projects/Project2-Group4-ETL
 	url = https://github.com/MondragB/Project2-Group4-ETL
+[submodule "Project3Visuals"]
+	path = Project3Visuals
+	url = https://github.com/Tinuola-1/Project3Visuals
