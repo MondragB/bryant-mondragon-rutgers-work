@@ -175,6 +175,6 @@
 
 | Classwork |  Summary |
 | --------- | -------- |
-|[18.1 - Classwork](/Classwork/18-Tableau/01-Tableau)|[18.1 - Summary](#none)
-<!-- |[18.2 - Classwork](/Classwork/18-Tableau/02-Tableau)|[18.2 - Summary](#none)
-|[18.3 - Classwork](/Classwork/18-Tableau/03-Tableau)|[18.3 - Summary](#none) -->
+|[18.1 - Classwork](/Classwork/18-Tableau/01-Tableau)|[18.1 - Summary](https://docs.google.com/document/d/1WWOXObOj4PC0IdrHiKxf6nuBpAO97m0y/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
+|[18.2 - Classwork](/Classwork/18-Tableau/02-Tableau)|[18.2 - Summary](#none)
+<!-- |[18.3 - Classwork](/Classwork/18-Tableau/03-Tableau)|[18.3 - Summary](#none) -->
