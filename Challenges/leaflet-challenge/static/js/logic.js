@@ -4,7 +4,7 @@ d3.json('https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geoj
 // Create the createMarkers function.
 function createMarkers (response) {
 
-    function markerSize(magnitude) {
+    function size(magnitude) {
         if (magnitude === 0) {
             return 1;
         }
@@ -12,7 +12,7 @@ function createMarkers (response) {
     }
 
     // Function to Determine Color of Marker Based on the Magnitude of the Earthquake
-    function chooseColor(magnitude) {
+    function color(magnitude) {
         switch (true) {
         case magnitude > 10:
             return "#cd6155 ";
@@ -44,9 +44,9 @@ function createMarkers (response) {
         marker.setStyle({
             opacity: 1,
             fillOpacity: 1,
-            fillColor: chooseColor(earthquake.properties.mag),
+            fillColor: color(earthquake.properties.mag),
             color: "#000000",
-            radius: markerSize(earthquake.properties.mag),
+            radius: size(earthquake.properties.mag),
             stroke: true,
             weight: 0.5
         });
