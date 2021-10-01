@@ -139,7 +139,6 @@
 | ------ |
 |[11 - Homework](/Challenges/web-scraping-challenge)|
 
-
 ## [Unit 14-Interactive-Web-Visualizations]
 
 | Classwork |  Summary |

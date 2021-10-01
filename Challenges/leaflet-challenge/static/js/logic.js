@@ -55,21 +55,38 @@ function createMarkers (response) {
     }
     // Create a layer group that's made from the eqMarkers array, and pass it to the createMap function.
     createMap(L.layerGroup(eqMarkers));
+    
 }
 
 // Create the createMap function. 
 let createMap = function(eqLocations) {
+
+    let plateLocations = new L.layerGroup();
+    
     // Create the tile layer that will be the background of our map.
-    let lightMap = L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/dark_all/{z}/{x}/{y}.png', {
+    let darkMap = L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/dark_all/{z}/{x}/{y}.png', {
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-    })
+    });
+    // Tile layer of grayscale of the map.
+    let lightMap = L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    });
+    // Tile layer of Topographical map.
+    let topoMap = L.tileLayer('https://tile.thunderforest.com/landscape/{z}/{x}/{y}.png?apikey={accessToken}', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> icontributors',
+        id: "mapbox.outdoors",
+        accessToken: API_KEY
+    });
     // Create a baseMaps object to hold the lightmap layer.
     let baseMaps = {
-        'LightMap': lightMap
+        'Light Scale Map': lightMap,
+        'Dark Scale Map': darkMap,
+        'Topo Map': topoMap
     };
     // Create an overlayMaps object to hold the eqLocations layer.
     let overlayMaps = {
-        'Earthquakes': eqLocations
+        'Earthquakes': eqLocations,
+        'Tectonic Plates': plateLocations
     };
     // Create the map object with options.
     let myMap = L.map("map", {
@@ -77,6 +94,29 @@ let createMap = function(eqLocations) {
         zoom: 2.4,
         layers: [lightMap, eqLocations]
     });
+    // Loading in the tectonic plate data.
+    d3.json('https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json', function(tectonicplates) {
+        // Create a GeoJSON Layer the plateData
+        L.geoJson(tectonicplates, {
+            color: "yellow",
+            weight: 2
+        }).addTo(plateLocations)
+        // Add tectonicPlates Layer to the Map
+        plateLocations.addTo(myMap);
+        console.log('somewhere')
+    });
+
+    // Set Up Legend
+    var legend = L.control({ position: "bottomright" });
+    legend.onAdd = function() {
+        var div = L.DomUtil.create("div", "info legend"), 
+        magnitudeLevels = [0, 1, 2, 3, 4, 5];
+
+        div.innerHTML += "<h3>Magnitude</h3>"
+        return div;
+    };
+    // Add Legend to the Map
+    legend.addTo(myMap);
     // Create a layer control, and pass it baseMaps and overlayMaps. Add the layer control to the map.
     L.control.layers(baseMaps, overlayMaps).addTo(myMap);
 }
