@@ -188,5 +188,13 @@
 | Classwork |  Summary |
 | --------- | -------- |
 |[19.1 - Classwork](/Classwork/19-Supervised-Machine-Learning/01-SML)|[19.1 - Summary](https://docs.google.com/document/d/1zNkefFp0CgeZh8CunSjuUt1QlMKG7TMR/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
-|[19.2 - Classwork](/Classwork/19-Supervised-Machine-Learning/02-SML)|[19.2 - Summary](#none)
-<!-- |[19.3 - Classwork](/Classwork/19-Supervised-Machine-Learning/03-SML)|[19.3 - Summary](#none) -->
+|[19.2 - Classwork](/Classwork/19-Supervised-Machine-Learning/02-SML)|[19.2 - Summary](https://docs.google.com/document/d/1VrTqAN9OGLP6nPAK2HQvvPJlJXaNaysD/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
+|[19.3 - **Absent**](/Classwork/19-Supervised-Machine-Learning/03-SML)|[19.3 - Summary](https://docs.google.com/document/d/1gTtdOEQkmqPYjCJIYC74wfjcpom4dKva/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
+
+## [Unit 20-Unsupervised-Machine-Learning]
+
+| Classwork |  Summary |
+| --------- | -------- |
+|[20.1 - Classwork](/Classwork/20-Unsupervised-Machine-Learning/01-UML)|[20.1 - Summary](#none)
+<!-- |[20.2 - Classwork](/Classwork/20-Unsupervised-Machine-Learning/02-UML)|[20.2 - Summary](#none)
+|[20.3 - Classwork](/Classwork/20-Unsupervised-Machine-Learning/03-UML)|[20.3 - Summary](#none) -->
