@@ -195,6 +195,13 @@
 
 | Classwork |  Summary |
 | --------- | -------- |
-|[20.1 - Classwork](/Classwork/20-Unsupervised-Machine-Learning/01-UML)|[20.1 - Summary](#none)
-<!-- |[20.2 - Classwork](/Classwork/20-Unsupervised-Machine-Learning/02-UML)|[20.2 - Summary](#none)
-|[20.3 - Classwork](/Classwork/20-Unsupervised-Machine-Learning/03-UML)|[20.3 - Summary](#none) -->
+|[20.1 - Classwork](/Classwork/20-Unsupervised-Machine-Learning/01-UML)|[20.1 - Summary](https://docs.google.com/document/d/1psnZQLk2HAXX7KKEV2ASHLyGxj4PWX8U/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
+|[20.2 - Classwork](/Classwork/20-Unsupervised-Machine-Learning/02-UML)|[20.2 - Summary](https://docs.google.com/document/d/1HdGmrMAUbSe6Pv1miP4IWHUXgddVUJ2i/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
+
+## [Unit 21-Deep-Learning]
+
+| Classwork |  Summary |
+| --------- | -------- |
+|[21.1 - Classwork](/Classwork/21-Deep-Learning/01-DL)|[21.1 - Summary](#none)
+<!-- |[21.2 - Classwork](/Classwork/21-Deep-Learning/02-DL)|[21.2 - Summary](#none)
+|[21.3 - Classwork](/Classwork/21-Deep-Learning/03-DL)|[21.3 - Summary](#none) -->
