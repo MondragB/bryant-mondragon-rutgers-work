@@ -178,7 +178,6 @@
 |[18.2 - Classwork](/Classwork/18-Tableau/02-Tableau)|[18.2 - Summary](https://docs.google.com/document/d/1B8DKplw_XDqunBzx1FPOXQV76y9lWMIm/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
 |[18.3 - Classwork](/Classwork/18-Tableau/03-Tableau)|[18.3 - Summary](https://docs.google.com/document/d/1SEVUYbcK4hZmElWWyScXrRccWX60xnos/edit?usp=sharing&ouid=116280221593110073521&rtpof=true&sd=true)
 
-
 |Homework|
 | ------ |
 |[13 - Homework](/Challenges/leaflet-challenge)|
@@ -191,6 +190,10 @@
 |[19.2 - Classwork](/Classwork/19-Supervised-Machine-Learning/02-SML)|[19.2 - Summary](https://docs.google.com/document/d/1VrTqAN9OGLP6nPAK2HQvvPJlJXaNaysD/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
 |[19.3 - **Absent**](/Classwork/19-Supervised-Machine-Learning/03-SML)|[19.3 - Summary](https://docs.google.com/document/d/1gTtdOEQkmqPYjCJIYC74wfjcpom4dKva/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
 
+|Homework|
+| ------ |
+|[14 - Homework](/Challenges/sml-challenge)|
+
 ## [Unit 20-Unsupervised-Machine-Learning]
 
 | Classwork |  Summary |
@@ -202,6 +205,14 @@
 
 | Classwork |  Summary |
 | --------- | -------- |
-|[21.1 - Classwork](/Classwork/21-Deep-Learning/01-DL)|[21.1 - Summary](#none)
-<!-- |[21.2 - Classwork](/Classwork/21-Deep-Learning/02-DL)|[21.2 - Summary](#none)
-|[21.3 - Classwork](/Classwork/21-Deep-Learning/03-DL)|[21.3 - Summary](#none) -->
+|[21.1 - Classwork](/Classwork/21-Deep-Learning/01-DL)|[21.1 - Summary](https://docs.google.com/document/d/1ZqkHahNL7oPc-BUoQYwE_G98cESc5ac6/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
+|[21.2 - Classwork](/Classwork/21-Deep-Learning/02-DL)|[21.2 - Summary](https://docs.google.com/document/d/181L5Pd1EzXjbFzHvRJt68D3_TDgUv39G/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
+|[21.3 - Classwork](/Classwork/21-Deep-Learning/03-DL)|[21.3 - Summary](https://docs.google.com/document/d/1i8Li4-M2CJkIhz_q1TIHe_k0ER6D5BnE/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
+
+## [Unit 22-Big-Data]
+
+| Classwork |  Summary |
+| --------- | -------- |
+|[22.1 - Classwork](/Classwork/22-Big-Data/01-BD)|[22.1 - Summary](#none)
+<!-- |[22.2 - Classwork](/Classwork/22-Big-Data/02-BD)|[22.2 - Summary](#none)
+|[22.3 - Classwork](/Classwork/22-Big-Data/03-BD)|[22.3 - Summary](#none) -->
