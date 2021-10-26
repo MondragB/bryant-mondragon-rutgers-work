@@ -213,6 +213,6 @@
 
 | Classwork |  Summary |
 | --------- | -------- |
-|[22.1 - Classwork](/Classwork/22-Big-Data/01-BD)|[22.1 - Summary](#none)
-<!-- |[22.2 - Classwork](/Classwork/22-Big-Data/02-BD)|[22.2 - Summary](#none)
-|[22.3 - Classwork](/Classwork/22-Big-Data/03-BD)|[22.3 - Summary](#none) -->
+|[22.1 - Classwork](/Classwork/22-Big-Data/01-BD)|[22.1 - Summary](https://docs.google.com/document/d/1ZqkHahNL7oPc-BUoQYwE_G98cESc5ac6/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
+|[22.2 - Classwork](/Classwork/22-Big-Data/02-BD)|[22.2 - Summary](#none)
+<!-- |[22.3 - Classwork](/Classwork/22-Big-Data/03-BD)|[22.3 - Summary](#none) -->
