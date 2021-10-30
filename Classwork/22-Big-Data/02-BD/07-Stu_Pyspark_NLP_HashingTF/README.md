@@ -1,15 +1,22 @@
-## PySpark NLP TD–IDF with HashingTF
+# PySpark NLP TD–IDF with HashingTF
 
-### Instructions
+In this activity, you will apply what they have learned so far to hash values from an airline dataset using PySpark.
 
-1. Read in the file and store in a DataFrame.
+## Instructions
 
-2. Tokenize the DataFrame and remove any stop words.
+* Read in the file and store in a DataFrame.
 
-3. Hash the term frequencies and store with the output into a new DataFrame.
+* Tokenize the DataFrame and remove any stop words.
 
-4. Fit the DataFrame with the inverse document frequency.
+* Hash the term frequencies and store with the output into a new DataFrame.
 
-### Bonus
+* Fit the DataFrame with the inverse document frequency.
 
-Use custom words with  `StopWordsRemover` to remove stop words and output a new column called `filtered`.
+## Bonus
+
+* Use custom words with  `StopWordsRemover` to remove stop words and output a new column called `filtered`.
+
+---
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
